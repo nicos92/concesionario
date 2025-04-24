@@ -1,0 +1,802 @@
+[
+  {
+    "marca": "Volkswagen",
+    "modelo": "Tiguan",
+    "precio": 11451,
+    "anio": 2014,
+    "kilometraje": 113125,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Camry",
+    "precio": 35082,
+    "anio": 2023,
+    "kilometraje": 37054,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "precio": 14684,
+    "anio": 2019,
+    "kilometraje": 176574,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "precio": 8843,
+    "anio": 2018,
+    "kilometraje": 77090,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": 34769,
+    "anio": 2015,
+    "kilometraje": 34494,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "precio": 18625,
+    "anio": 2017,
+    "kilometraje": 151676,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "precio": 27916,
+    "anio": 2015,
+    "kilometraje": 21718,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "precio": 24674,
+    "anio": 2022,
+    "kilometraje": 162436,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "precio": 14938,
+    "anio": 2023,
+    "kilometraje": 127350,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Sonata",
+    "precio": 19955,
+    "anio": 2023,
+    "kilometraje": 67815,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Accord",
+    "precio": 17382,
+    "anio": 2017,
+    "kilometraje": 106373,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Tiguan",
+    "precio": 32119,
+    "anio": 2017,
+    "kilometraje": 195681,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "precio": 32482,
+    "anio": 2019,
+    "kilometraje": 61107,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "precio": 38278,
+    "anio": 2014,
+    "kilometraje": 144140,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "precio": 25399,
+    "anio": 2023,
+    "kilometraje": 30085,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "precio": 26520,
+    "anio": 2016,
+    "kilometraje": 9492,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Spark",
+    "precio": 36845,
+    "anio": 2015,
+    "kilometraje": 187000,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "Mazda3",
+    "precio": 29614,
+    "anio": 2014,
+    "kilometraje": 110300,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Malibu",
+    "precio": 29132,
+    "anio": 2016,
+    "kilometraje": 89453,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "precio": 29723,
+    "anio": 2013,
+    "kilometraje": 63799,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Sonata",
+    "precio": 39980,
+    "anio": 2016,
+    "kilometraje": 72947,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "precio": 27373,
+    "anio": 2023,
+    "kilometraje": 167709,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Accent",
+    "precio": 26392,
+    "anio": 2020,
+    "kilometraje": 179152,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Sorento",
+    "precio": 27751,
+    "anio": 2021,
+    "kilometraje": 193244,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "precio": 25686,
+    "anio": 2017,
+    "kilometraje": 6805,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Malibu",
+    "precio": 16411,
+    "anio": 2022,
+    "kilometraje": 164345,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Camry",
+    "precio": 23498,
+    "anio": 2018,
+    "kilometraje": 100474,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Megane",
+    "precio": 19824,
+    "anio": 2014,
+    "kilometraje": 183121,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "precio": 26811,
+    "anio": 2015,
+    "kilometraje": 155672,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": 16956,
+    "anio": 2023,
+    "kilometraje": 185002,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Fit",
+    "precio": 8807,
+    "anio": 2013,
+    "kilometraje": 151946,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": 9649,
+    "anio": 2022,
+    "kilometraje": 54950,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "precio": 21957,
+    "anio": 2021,
+    "kilometraje": 56175,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Fit",
+    "precio": 37297,
+    "anio": 2019,
+    "kilometraje": 25395,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Captur",
+    "precio": 28487,
+    "anio": 2019,
+    "kilometraje": 32539,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Sonata",
+    "precio": 31748,
+    "anio": 2018,
+    "kilometraje": 36422,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "precio": 17412,
+    "anio": 2017,
+    "kilometraje": 191597,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "precio": 28204,
+    "anio": 2012,
+    "kilometraje": 142796,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "precio": 12139,
+    "anio": 2018,
+    "kilometraje": 103314,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Accent",
+    "precio": 33813,
+    "anio": 2018,
+    "kilometraje": 97634,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "precio": 25893,
+    "anio": 2021,
+    "kilometraje": 187831,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-3",
+    "precio": 12568,
+    "anio": 2017,
+    "kilometraje": 122847,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "precio": 26115,
+    "anio": 2013,
+    "kilometraje": 180978,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "precio": 10598,
+    "anio": 2021,
+    "kilometraje": 118980,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "precio": 30221,
+    "anio": 2023,
+    "kilometraje": 63622,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "precio": 36491,
+    "anio": 2012,
+    "kilometraje": 75133,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Fit",
+    "precio": 18657,
+    "anio": 2016,
+    "kilometraje": 90299,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Captur",
+    "precio": 21140,
+    "anio": 2013,
+    "kilometraje": 81793,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "precio": 9199,
+    "anio": 2019,
+    "kilometraje": 143942,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Accord",
+    "precio": 18623,
+    "anio": 2016,
+    "kilometraje": 64055,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Duster",
+    "precio": 37776,
+    "anio": 2017,
+    "kilometraje": 168214,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "precio": 19435,
+    "anio": 2021,
+    "kilometraje": 120072,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": 28926,
+    "anio": 2020,
+    "kilometraje": 51704,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "precio": 29419,
+    "anio": 2016,
+    "kilometraje": 91855,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Escape",
+    "precio": 8143,
+    "anio": 2016,
+    "kilometraje": 175788,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "precio": 30294,
+    "anio": 2012,
+    "kilometraje": 20637,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "precio": 25617,
+    "anio": 2012,
+    "kilometraje": 125097,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Escape",
+    "precio": 9757,
+    "anio": 2022,
+    "kilometraje": 154793,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "precio": 24162,
+    "anio": 2020,
+    "kilometraje": 48791,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Megane",
+    "precio": 10506,
+    "anio": 2019,
+    "kilometraje": 139753,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "precio": 28468,
+    "anio": 2014,
+    "kilometraje": 23989,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "precio": 26686,
+    "anio": 2018,
+    "kilometraje": 176827,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Sportage",
+    "precio": 17144,
+    "anio": 2021,
+    "kilometraje": 143318,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "Mazda6",
+    "precio": 34046,
+    "anio": 2019,
+    "kilometraje": 72850,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Malibu",
+    "precio": 35654,
+    "anio": 2015,
+    "kilometraje": 87466,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Accord",
+    "precio": 11894,
+    "anio": 2022,
+    "kilometraje": 91021,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "precio": 26874,
+    "anio": 2012,
+    "kilometraje": 194790,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Duster",
+    "precio": 17447,
+    "anio": 2020,
+    "kilometraje": 77128,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Forte",
+    "precio": 12669,
+    "anio": 2018,
+    "kilometraje": 86782,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Tiguan",
+    "precio": 33397,
+    "anio": 2021,
+    "kilometraje": 12493,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-3",
+    "precio": 10134,
+    "anio": 2015,
+    "kilometraje": 22093,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "precio": 21915,
+    "anio": 2014,
+    "kilometraje": 5680,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Rio",
+    "precio": 28012,
+    "anio": 2012,
+    "kilometraje": 189345,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Escape",
+    "precio": 29277,
+    "anio": 2012,
+    "kilometraje": 61722,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-3",
+    "precio": 38855,
+    "anio": 2023,
+    "kilometraje": 188290,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Accord",
+    "precio": 38928,
+    "anio": 2023,
+    "kilometraje": 73621,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "precio": 19730,
+    "anio": 2021,
+    "kilometraje": 84343,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "precio": 15104,
+    "anio": 2022,
+    "kilometraje": 172718,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": 30511,
+    "anio": 2020,
+    "kilometraje": 169260,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Rogue",
+    "precio": 18540,
+    "anio": 2015,
+    "kilometraje": 148385,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "precio": 28734,
+    "anio": 2014,
+    "kilometraje": 156151,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Camry",
+    "precio": 22351,
+    "anio": 2019,
+    "kilometraje": 57542,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "precio": 28975,
+    "anio": 2022,
+    "kilometraje": 56025,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": 20008,
+    "anio": 2019,
+    "kilometraje": 90974,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Altima",
+    "precio": 10395,
+    "anio": 2021,
+    "kilometraje": 119384,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-3",
+    "precio": 25188,
+    "anio": 2013,
+    "kilometraje": 187339,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "precio": 22687,
+    "anio": 2012,
+    "kilometraje": 97763,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "precio": 30079,
+    "anio": 2018,
+    "kilometraje": 151737,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "precio": 35720,
+    "anio": 2016,
+    "kilometraje": 161343,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Sonata",
+    "precio": 31012,
+    "anio": 2016,
+    "kilometraje": 82834,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-3",
+    "precio": 24567,
+    "anio": 2014,
+    "kilometraje": 100269,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "precio": 21637,
+    "anio": 2014,
+    "kilometraje": 169077,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "precio": 31033,
+    "anio": 2016,
+    "kilometraje": 166807,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "precio": 13774,
+    "anio": 2015,
+    "kilometraje": 66380,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "Mazda6",
+    "precio": 25474,
+    "anio": 2018,
+    "kilometraje": 172061,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Accent",
+    "precio": 9186,
+    "anio": 2018,
+    "kilometraje": 64549,
+    "combustible": "Gasolina"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "CR-V",
+    "precio": 36572,
+    "anio": 2015,
+    "kilometraje": 125326,
+    "combustible": "Di\u00e9sel"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "Mazda6",
+    "precio": 23420,
+    "anio": 2020,
+    "kilometraje": 81469,
+    "combustible": "El\u00e9ctrico"
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Accord",
+    "precio": 38693,
+    "anio": 2012,
+    "kilometraje": 129816,
+    "combustible": "H\u00edbrido"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Sonata",
+    "precio": 23396,
+    "anio": 2013,
+    "kilometraje": 111324,
+    "combustible": "Gasolina"
+  }
+]
